@@ -1,0 +1,7 @@
+org\sibo\webservice\controllers\MemberGoalsController.class
+org\sibo\webservice\controllers\MembersController.class
+org\sibo\webservice\controllers\MemberTransactionsController.class
+org\sibo\webservice\controllers\AccountTypeController.class
+org\sibo\webservice\config\configWeb.class
+org\sibo\webservice\config\SwaggerConf.class
+org\sibo\webservice\MainApp.class

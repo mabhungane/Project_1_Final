@@ -1,0 +1,9 @@
+org\sibo\logic\MemberGoalsService.class
+org\sibo\logic\config\configLogic.class
+org\sibo\logic\flows\MemberGoalsServiceImpl.class
+org\sibo\logic\flows\MemberTransactionsServiceImpl.class
+org\sibo\logic\AccountTypesService.class
+org\sibo\logic\flows\AccountMemverServiceImpl.class
+org\sibo\logic\MemberTransactionsService.class
+org\sibo\logic\AccountMembersService.class
+org\sibo\logic\flows\AccountTypesServiceImpl.class

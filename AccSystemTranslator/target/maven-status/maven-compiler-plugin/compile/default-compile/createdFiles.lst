@@ -1,0 +1,9 @@
+org\sibo\translator\config\TransConfiguation.class
+org\sibo\translator\impl\MemberTranslatorImpl.class
+org\sibo\translator\MemberTranslator.class
+org\sibo\translator\AccountTypeTranslator.class
+org\sibo\translator\MemberGoalsTranslator.class
+org\sibo\translator\impl\AccounttTypeTranslatorImpl.class
+org\sibo\translator\MemberTransactionsTranslator.class
+org\sibo\translator\impl\MemberGoalsTranslatorImpl.class
+org\sibo\translator\impl\MemberTransactionsTranslatorImpl.class

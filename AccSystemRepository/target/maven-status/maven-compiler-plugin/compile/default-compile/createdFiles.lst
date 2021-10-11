@@ -1,0 +1,5 @@
+org\sibo\repository\persistence\MemberRepository.class
+org\sibo\repository\config\RepoConfig.class
+org\sibo\repository\persistence\AccountTypeRepository.class
+org\sibo\repository\persistence\MemberGoalsRepo.class
+org\sibo\repository\persistence\MemberTransactionsRepository.class
